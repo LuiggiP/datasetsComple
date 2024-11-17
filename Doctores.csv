@@ -1,0 +1,637 @@
+Nombre,Horario de Atencion,Centro Medico,Especialidad
+Dr. Daniel Núñez,7:00 A.M a 12:00 P.M,Hospital II Gustavo Lanatta Luján - EsSalud,Geriatría
+Dra. Laura Salazar,12:01 P.M a 5:00 P.M,Hospital II Gustavo Lanatta Luján - EsSalud,Geriatría
+Dr. Pedro Campos,5:01 P.M a 11:00 P.M,Hospital II Gustavo Lanatta Luján - EsSalud,Geriatría
+Dr. María Pérez,7:00 A.M a 12:00 P.M,Hospital II Ramon Castilla,Neumología
+Dr. Pedro Campos,12:01 P.M a 5:00 P.M,Hospital II Ramon Castilla,Neumología
+Dra. Carla Romero,5:01 P.M a 11:00 P.M,Hospital II Ramon Castilla,Neumología
+Dra. Ana Ortega,7:00 A.M a 12:00 P.M,Instituto Nacional Cardiovascular Carlos Alberto Peschiera Carrillo – Incor –EsSalud,Cardiología
+Dr. Delfina Saldaña,12:01 P.M a 5:00 P.M,Instituto Nacional Cardiovascular Carlos Alberto Peschiera Carrillo – Incor –EsSalud,Cardiología
+Dra. Juan Martín Rincón,5:01 P.M a 11:00 P.M,Instituto Nacional Cardiovascular Carlos Alberto Peschiera Carrillo – Incor –EsSalud,Cardiología
+Dra. Lautaro Cortés,7:00 A.M a 12:00 P.M,Hospital II Vitarte - EsSalud,Geriatría
+Dr. Martín Rangel,12:01 P.M a 5:00 P.M,Hospital II Vitarte - EsSalud,Geriatría
+Dr. Lautaro Samaniego,5:01 P.M a 11:00 P.M,Hospital II Vitarte - EsSalud,Geriatría
+Dr. Luciana Vega,7:00 A.M a 12:00 P.M,Uldarico Rocca Fernandez,Neumología
+Dra. Ivanna Vera,12:01 P.M a 5:00 P.M,Uldarico Rocca Fernandez,Neumología
+Dra. Malena Hernandes,5:01 P.M a 11:00 P.M,Uldarico Rocca Fernandez,Neumología
+Dr. Juan Pablo Macías,7:00 A.M a 12:00 P.M,Hospital I Octavio Mongrut Muñoz,Medicina General
+Dra. Luciana De La Fuente,12:01 P.M a 5:00 P.M,Hospital I Octavio Mongrut Muñoz,Medicina General
+Dr. Agustina Arreola,5:01 P.M a 11:00 P.M,Hospital I Octavio Mongrut Muñoz,Medicina General
+Dr. Lucas Arguello,7:00 A.M a 12:00 P.M,Hospital de Emergencias Grau,Endocrinología
+Dr. Luciano Quiñones,12:01 P.M a 5:00 P.M,Hospital de Emergencias Grau,Endocrinología
+Dra. Bianca Pineda,5:01 P.M a 11:00 P.M,Hospital de Emergencias Grau,Endocrinología
+Dr. Agustín Carvajal,7:00 A.M a 12:00 P.M,EsSalud - Hospital III Suárez Angamos,Neumología
+Dr. Antonio Paz,12:01 P.M a 5:00 P.M,EsSalud - Hospital III Suárez Angamos,Neumología
+Dra. Horacio Cervantes,5:01 P.M a 11:00 P.M,EsSalud - Hospital III Suárez Angamos,Neumología
+Dr. Benjamín Espinal,7:00 A.M a 12:00 P.M,Hospital Aurelio Díaz Ufano y Peral,Medicina General
+Dr. Bruno Carvajal,12:01 P.M a 5:00 P.M,Hospital Aurelio Díaz Ufano y Peral,Medicina General
+Dr. Anthony Galarza,5:01 P.M a 11:00 P.M,Hospital Aurelio Díaz Ufano y Peral,Medicina General
+Dr. Sofía Herrera,7:00 A.M a 12:00 P.M,EsSalud - Hospital IIe San Isidro Labrador,Medicina General
+Dr. Mateo García,12:01 P.M a 5:00 P.M,EsSalud - Hospital IIe San Isidro Labrador,Medicina General
+Dr. Isabella Rodríguez,5:01 P.M a 11:00 P.M,EsSalud - Hospital IIe San Isidro Labrador,Medicina General
+Dr. Miguel Álvarez,7:00 A.M a 12:00 P.M,Hospital I Carlos Alcantara Butterfield,Medicina General
+Dra. Valentina López,12:01 P.M a 5:00 P.M,Hospital I Carlos Alcantara Butterfield,Medicina General
+Dr. Diego Martínez,5:01 P.M a 11:00 P.M,Hospital I Carlos Alcantara Butterfield,Medicina General
+Dr.  Camila Hernández,7:00 A.M a 12:00 P.M,Hospital I Marino Molina Scippa - EsSalud,Geriatría
+Dra.  Daniel Pérez,12:01 P.M a 5:00 P.M,Hospital I Marino Molina Scippa - EsSalud,Geriatría
+Dr.  Luna Ruiz,5:01 P.M a 11:00 P.M,Hospital I Marino Molina Scippa - EsSalud,Geriatría
+Dra. David Sánchez,7:00 A.M a 12:00 P.M,EsSalud - Hospital I Jorge Voto Bernales Corpancho,Endocrinología
+Dr. Emma Gutiérrez,12:01 P.M a 5:00 P.M,EsSalud - Hospital I Jorge Voto Bernales Corpancho,Endocrinología
+Dra. Alejandro Moreno,5:01 P.M a 11:00 P.M,EsSalud - Hospital I Jorge Voto Bernales Corpancho,Endocrinología
+Dra. Olivia Fernández,7:00 A.M a 12:00 P.M,Hospital de Supe Laura Esther Rodríguez Dulanto,Neumología
+Dra. Antonio Ramírez,12:01 P.M a 5:00 P.M,Hospital de Supe Laura Esther Rodríguez Dulanto,Neumología
+Dra. Ximena Flores,5:01 P.M a 11:00 P.M,Hospital de Supe Laura Esther Rodríguez Dulanto,Neumología
+Dr. Leonardo Morales,7:00 A.M a 12:00 P.M,Hospital San Juan Bautista Huaral,Endocrinología
+Dr. Victoria Silva,12:01 P.M a 5:00 P.M,Hospital San Juan Bautista Huaral,Endocrinología
+Dr. José Castro,5:01 P.M a 11:00 P.M,Hospital San Juan Bautista Huaral,Endocrinología
+Dr. Ana Muñoz,7:00 A.M a 12:00 P.M,Hospital de Chancay y Sbs Dr. Hidalgo Atoche L¿Pez,Neumología
+Dra. Sebastián Vargas,12:01 P.M a 5:00 P.M,Hospital de Chancay y Sbs Dr. Hidalgo Atoche L¿Pez,Neumología
+Dra. Maria Garcia,5:01 P.M a 11:00 P.M,Hospital de Chancay y Sbs Dr. Hidalgo Atoche L¿Pez,Neumología
+Dra. Juan Rodriguez,7:00 A.M a 12:00 P.M,Hospital Rezola,Geriatría
+Dr. Jose Hernandez,12:01 P.M a 5:00 P.M,Hospital Rezola,Geriatría
+Dr. Laura Perez,5:01 P.M a 11:00 P.M,Hospital Rezola,Geriatría
+Dra. David Lopez,7:00 A.M a 12:00 P.M,Hospital San Juan de Matucana,Medicina General
+Dr. Sofia Sanchez,12:01 P.M a 5:00 P.M,Hospital San Juan de Matucana,Medicina General
+Dr. Miguel Ruiz,5:01 P.M a 11:00 P.M,Hospital San Juan de Matucana,Medicina General
+Dra. Isabel Gomez,7:00 A.M a 12:00 P.M,Hospital de Barranca,Medicina General
+Dr. Javier Fernandez,12:01 P.M a 5:00 P.M,Hospital de Barranca,Medicina General
+Dr. Carmen Gonzalez,5:01 P.M a 11:00 P.M,Hospital de Barranca,Medicina General
+Dra. Antonio Moreno,7:00 A.M a 12:00 P.M,Hospital General de Huacho,Geriatría
+Dr. Alicia Garcia,12:01 P.M a 5:00 P.M,Hospital General de Huacho,Geriatría
+Dra. Pablo Rodriguez,5:01 P.M a 11:00 P.M,Hospital General de Huacho,Geriatría
+Dra. Elena Martinez,7:00 A.M a 12:00 P.M,Nacional Dos de Mayo,Geriatría
+Dr. Ricardo Hernandez,12:01 P.M a 5:00 P.M,Nacional Dos de Mayo,Geriatría
+Dr. Cristina Perez,5:01 P.M a 11:00 P.M,Nacional Dos de Mayo,Geriatría
+Dra. Jorge Lopez,7:00 A.M a 12:00 P.M,Hospital Víctor Larco Herrera,Medicina General
+Dr. Beatriz Sanchez,12:01 P.M a 5:00 P.M,Hospital Víctor Larco Herrera,Medicina General
+Dra. Andres Ruiz,5:01 P.M a 11:00 P.M,Hospital Víctor Larco Herrera,Medicina General
+Dra. Isaac Vanegas,7:00 A.M a 12:00 P.M,Hospital de Lima Este -Vitarte,Medicina General
+Dr. Emilio Moreno,12:01 P.M a 5:00 P.M,Hospital de Lima Este -Vitarte,Medicina General
+Dra. Leonardo Saavedra,5:01 P.M a 11:00 P.M,Hospital de Lima Este -Vitarte,Medicina General
+Dra. Elizabeth Vega,7:00 A.M a 12:00 P.M,Hospital de Huaycan,Endocrinología
+Dr. Elizabeth Vega,12:01 P.M a 5:00 P.M,Hospital de Huaycan,Endocrinología
+Dr. Elizabeth Lozano,5:01 P.M a 11:00 P.M,Hospital de Huaycan,Endocrinología
+Dr. Mariangel Ávalos,7:00 A.M a 12:00 P.M,Hospital Nacional Arzobispo Loayza,Cardiología
+Dr. Guadalupe Noriega,12:01 P.M a 5:00 P.M,Hospital Nacional Arzobispo Loayza,Cardiología
+Dr. Juan Pablo Caldera,5:01 P.M a 11:00 P.M,Hospital Nacional Arzobispo Loayza,Cardiología
+Dra. Gael Brito,7:00 A.M a 12:00 P.M,Hospital de Emergencias José Casimiro Ulloa,Endocrinología
+Dr. Salomé Orellana,12:01 P.M a 5:00 P.M,Hospital de Emergencias José Casimiro Ulloa,Endocrinología
+Dr. Jacobo Armendáriz,5:01 P.M a 11:00 P.M,Hospital de Emergencias José Casimiro Ulloa,Endocrinología
+Dr. Carla Benavides,7:00 A.M a 12:00 P.M,Hospital de Emergencias Villa El Salvador,Endocrinología
+Dr. Rebeca Pérez,12:01 P.M a 5:00 P.M,Hospital de Emergencias Villa El Salvador,Endocrinología
+Dra. Sofía Vela,5:01 P.M a 11:00 P.M,Hospital de Emergencias Villa El Salvador,Endocrinología
+Dra. Damián Roybal,7:00 A.M a 12:00 P.M,Hospital Carlos Lanfranco La Hoz,Geriatría
+Dra. Delfina Araña,12:01 P.M a 5:00 P.M,Hospital Carlos Lanfranco La Hoz,Geriatría
+Dr. Regina Molina,5:01 P.M a 11:00 P.M,Hospital Carlos Lanfranco La Hoz,Geriatría
+Dra. Josefa Espinoza,7:00 A.M a 12:00 P.M,Hospital Hermilio Valdizán,Medicina General
+Dr. Fernando Treviño,12:01 P.M a 5:00 P.M,Hospital Hermilio Valdizán,Medicina General
+Dr. Antonella Ríos,5:01 P.M a 11:00 P.M,Hospital Hermilio Valdizán,Medicina General
+Dr. Clara Vaca,7:00 A.M a 12:00 P.M,Hospital de Emergencias Pediatricas,Cardiología
+Dr. Luciana Téllez,12:01 P.M a 5:00 P.M,Hospital de Emergencias Pediatricas,Cardiología
+Dr. Lola Bonilla,5:01 P.M a 11:00 P.M,Hospital de Emergencias Pediatricas,Cardiología
+Dr. Silvana  Coronado,7:00 A.M a 12:00 P.M,Hospital Nacional Hipólito Unanue,Endocrinología
+Dra. Violeta Valenzuela,12:01 P.M a 5:00 P.M,Hospital Nacional Hipólito Unanue,Endocrinología
+Dr. Alonso Peres,5:01 P.M a 11:00 P.M,Hospital Nacional Hipólito Unanue,Endocrinología
+Dr. Javier Amaya,7:00 A.M a 12:00 P.M,Hospital Nacional Cayetano Heredia,Medicina General
+Dra. Ivan Téllez,12:01 P.M a 5:00 P.M,Hospital Nacional Cayetano Heredia,Medicina General
+Dra. Bianca Méndez,5:01 P.M a 11:00 P.M,Hospital Nacional Cayetano Heredia,Medicina General
+Dr. Leonardo Brito,7:00 A.M a 12:00 P.M,Hospital de Apoyo Santa Rosa,Cardiología
+Dr. Antonia Reyna,12:01 P.M a 5:00 P.M,Hospital de Apoyo Santa Rosa,Cardiología
+Dr. Alessandra Cantú,5:01 P.M a 11:00 P.M,Hospital de Apoyo Santa Rosa,Cardiología
+Dra. Sara Acosta,7:00 A.M a 12:00 P.M,Hospital de Mediana Complejidad José Agurto Tello,Cardiología
+Dr. Antonia Sanches,12:01 P.M a 5:00 P.M,Hospital de Mediana Complejidad José Agurto Tello,Cardiología
+Dr. Catalina Delgadillo,5:01 P.M a 11:00 P.M,Hospital de Mediana Complejidad José Agurto Tello,Cardiología
+Dr. Maite Rojas,7:00 A.M a 12:00 P.M,Hospital Emergencia Ate Vitarte,Geriatría
+Dra. Mariangel Vázquez,12:01 P.M a 5:00 P.M,Hospital Emergencia Ate Vitarte,Geriatría
+Dr. Matthew Núñez,5:01 P.M a 11:00 P.M,Hospital Emergencia Ate Vitarte,Geriatría
+Dra. Lucas Zaragoza,7:00 A.M a 12:00 P.M,Hospital María Auxiliadora,Endocrinología
+Dr. María José Vázquez,12:01 P.M a 5:00 P.M,Hospital María Auxiliadora,Endocrinología
+Dr. Rebeca Nava,5:01 P.M a 11:00 P.M,Hospital María Auxiliadora,Endocrinología
+Dra. Martina Baca,7:00 A.M a 12:00 P.M,Hospital Vitarte,Geriatría
+Dra. Kevin Segura,12:01 P.M a 5:00 P.M,Hospital Vitarte,Geriatría
+Dr. Paulina Arredondo,5:01 P.M a 11:00 P.M,Hospital Vitarte,Geriatría
+Dra. Luis Pacheco,7:00 A.M a 12:00 P.M,Hospital Sergio E. Bernales,Neumología
+Dr. Ana Sofía Terán,12:01 P.M a 5:00 P.M,Hospital Sergio E. Bernales,Neumología
+Dr. María Toro,5:01 P.M a 11:00 P.M,Hospital Sergio E. Bernales,Neumología
+Dra. María Camila Arellano,7:00 A.M a 12:00 P.M,Hospital San Juan de Lurigancho,Geriatría
+Dr. Ivanna Ceja,12:01 P.M a 5:00 P.M,Hospital San Juan de Lurigancho,Geriatría
+Dr. Gabriela Casanova,5:01 P.M a 11:00 P.M,Hospital San Juan de Lurigancho,Geriatría
+Dr. Antonia De La Torre,7:00 A.M a 12:00 P.M,Hospital Municipal Los Olivos,Cardiología
+Dra. Valery  Moya,12:01 P.M a 5:00 P.M,Hospital Municipal Los Olivos,Cardiología
+Dra. Zoe Olvera,5:01 P.M a 11:00 P.M,Hospital Municipal Los Olivos,Cardiología
+Dr. Juan Diego Negrón,7:00 A.M a 12:00 P.M,Hogar de La Madre Clínica-Hospital,Neumología
+Dr. Isabella Sanabria,12:01 P.M a 5:00 P.M,Hogar de La Madre Clínica-Hospital,Neumología
+Dra. Ricardo Paz,5:01 P.M a 11:00 P.M,Hogar de La Madre Clínica-Hospital,Neumología
+Dr. Maite Mercado,7:00 A.M a 12:00 P.M,Clínica Centenario Peruano Japonesa,Cardiología
+Dr. Emilia Aponte,12:01 P.M a 5:00 P.M,Clínica Centenario Peruano Japonesa,Cardiología
+Dra. Micaela Riojas,5:01 P.M a 11:00 P.M,Clínica Centenario Peruano Japonesa,Cardiología
+Dr. Victoria Arias,7:00 A.M a 12:00 P.M,Clínica Sagrada Familia del Sur,Endocrinología
+Dr. Catalina Domínquez,12:01 P.M a 5:00 P.M,Clínica Sagrada Familia del Sur,Endocrinología
+Dra. Matthew Rodarte,5:01 P.M a 11:00 P.M,Clínica Sagrada Familia del Sur,Endocrinología
+Dra. Martín Godínez,7:00 A.M a 12:00 P.M,Clínica Kirschbaum,Cardiología
+Dr. Valentín Carrasquillo,12:01 P.M a 5:00 P.M,Clínica Kirschbaum,Cardiología
+Dr. Matías Echevarría,5:01 P.M a 11:00 P.M,Clínica Kirschbaum,Cardiología
+Dra. Tomas Hernádez,7:00 A.M a 12:00 P.M,Clínica Gran Chimu,Medicina General
+Dra. Jerónimo Rosario,12:01 P.M a 5:00 P.M,Clínica Gran Chimu,Medicina General
+Dr. Fátima  Colón,5:01 P.M a 11:00 P.M,Clínica Gran Chimu,Medicina General
+Dra. Emily Guajardo,7:00 A.M a 12:00 P.M,Clínica Angloamericana,Geriatría
+Dr. Daniel Aguayo,12:01 P.M a 5:00 P.M,Clínica Angloamericana,Geriatría
+Dr. Eduardo Pedroza,5:01 P.M a 11:00 P.M,Clínica Angloamericana,Geriatría
+Dr. Thiago Hurtado,7:00 A.M a 12:00 P.M,Clínica Mater Purissima,Endocrinología
+Dr. Amelia Granado,12:01 P.M a 5:00 P.M,Clínica Mater Purissima,Endocrinología
+Dr. Ana Paula Piña,5:01 P.M a 11:00 P.M,Clínica Mater Purissima,Endocrinología
+Dr. Manuela Valverde,7:00 A.M a 12:00 P.M,Kura,Neumología
+Dr. Pablo Tamez,12:01 P.M a 5:00 P.M,Kura,Neumología
+Dr. Aarón Rodrígez,5:01 P.M a 11:00 P.M,Kura,Neumología
+Dr. Ariadna González,7:00 A.M a 12:00 P.M,Oncogyn Clínica Integral,Cardiología
+Dra. Sophie Ríos,12:01 P.M a 5:00 P.M,Oncogyn Clínica Integral,Cardiología
+Dr. Eduardo Reyna,5:01 P.M a 11:00 P.M,Oncogyn Clínica Integral,Cardiología
+Dr. Salomé Palacios,7:00 A.M a 12:00 P.M,Medical Plastic,Cardiología
+Dr. Amanda López,12:01 P.M a 5:00 P.M,Medical Plastic,Cardiología
+Dr. Josefa Rendón,5:01 P.M a 11:00 P.M,Medical Plastic,Cardiología
+Dr. Antonella Cedillo,7:00 A.M a 12:00 P.M,Cl Especialidades Medicas,Neumología
+Dr. Guadalupe Carranza,12:01 P.M a 5:00 P.M,Cl Especialidades Medicas,Neumología
+Dra. Silvana  Gracia,5:01 P.M a 11:00 P.M,Cl Especialidades Medicas,Neumología
+Dr. Catalina Vallejo,7:00 A.M a 12:00 P.M,Clínica María SRL,Geriatría
+Dra. Jesús Preciado,12:01 P.M a 5:00 P.M,Clínica María SRL,Geriatría
+Dr. Bautista Trujillo,5:01 P.M a 11:00 P.M,Clínica María SRL,Geriatría
+Dra. Nahuel Zamora,7:00 A.M a 12:00 P.M,Clínica San Martín,Geriatría
+Dr. Lucas Noriega,12:01 P.M a 5:00 P.M,Clínica San Martín,Geriatría
+Dra. Oliva Gutiérrez,5:01 P.M a 11:00 P.M,Clínica San Martín,Geriatría
+Dra. Zoe Tello,7:00 A.M a 12:00 P.M,Novocentral,Cardiología
+Dra. Guadalupe Carmona,12:01 P.M a 5:00 P.M,Novocentral,Cardiología
+Dra. Malena Zaragoza,5:01 P.M a 11:00 P.M,Novocentral,Cardiología
+Dr. María Paula Manzanares,7:00 A.M a 12:00 P.M,Clínica Providencia,Geriatría
+Dr. Victoria Puga,12:01 P.M a 5:00 P.M,Clínica Providencia,Geriatría
+Dra. Camilo Leyva,5:01 P.M a 11:00 P.M,Clínica Providencia,Geriatría
+Dra. Ximena Arroyo,7:00 A.M a 12:00 P.M,Clínica Antonio Miroquesada,Neumología
+Dra. Julieta Salas,12:01 P.M a 5:00 P.M,Clínica Antonio Miroquesada,Neumología
+Dr. Bruno Páez,5:01 P.M a 11:00 P.M,Clínica Antonio Miroquesada,Neumología
+Dr. Samuel Mendoza,7:00 A.M a 12:00 P.M,Clínica Santa Catalina,Medicina General
+Dra. Elizabeth Barrera,12:01 P.M a 5:00 P.M,Clínica Santa Catalina,Medicina General
+Dra. Facundo Menéndez,5:01 P.M a 11:00 P.M,Clínica Santa Catalina,Medicina General
+Dra. Carla Valladares,7:00 A.M a 12:00 P.M,Centro Médico Especializado Veronesi SAC,Geriatría
+Dra. Mariangel Mayorga,12:01 P.M a 5:00 P.M,Centro Médico Especializado Veronesi SAC,Geriatría
+Dra. Ignacio Escalante,5:01 P.M a 11:00 P.M,Centro Médico Especializado Veronesi SAC,Geriatría
+Dra. Rafael Medina,7:00 A.M a 12:00 P.M,Clínicas San Bernardo SA,Cardiología
+Dr. Isaac Gallegos,12:01 P.M a 5:00 P.M,Clínicas San Bernardo SA,Cardiología
+Dr. Alejandra Godínez,5:01 P.M a 11:00 P.M,Clínicas San Bernardo SA,Cardiología
+Dr. Ana Sofía Pacheco,7:00 A.M a 12:00 P.M,Clínica Vista Alegre,Geriatría
+Dr. Valentina Valle,12:01 P.M a 5:00 P.M,Clínica Vista Alegre,Geriatría
+Dr. Fátima  Huerta,5:01 P.M a 11:00 P.M,Clínica Vista Alegre,Geriatría
+Dr. María Alejandra Anaya,7:00 A.M a 12:00 P.M,Clínica Oftalmológica Especializada Ñahui,Neumología
+Dr. Emily Peña,12:01 P.M a 5:00 P.M,Clínica Oftalmológica Especializada Ñahui,Neumología
+Dr. Luciano Coronado,5:01 P.M a 11:00 P.M,Clínica Oftalmológica Especializada Ñahui,Neumología
+Dr. Valentín Zelaya,7:00 A.M a 12:00 P.M,CREO Clínica Renal y Oncológica,Cardiología
+Dr. Julián Jiménez,12:01 P.M a 5:00 P.M,CREO Clínica Renal y Oncológica,Cardiología
+Dra. Alexa Armendáriz,5:01 P.M a 11:00 P.M,CREO Clínica Renal y Oncológica,Cardiología
+Dra. Miranda Quiñones,7:00 A.M a 12:00 P.M,Clínica Vesalio,Neumología
+Dr. Mariana Farías,12:01 P.M a 5:00 P.M,Clínica Vesalio,Neumología
+Dra. Miguel Hurtado,5:01 P.M a 11:00 P.M,Clínica Vesalio,Neumología
+Dr. Josefa Carmona,7:00 A.M a 12:00 P.M,Clínica San Juan Crisostomo,Endocrinología
+Dr. Tomas Gamboa,12:01 P.M a 5:00 P.M,Clínica San Juan Crisostomo,Endocrinología
+Dra. Ivan Zelaya,5:01 P.M a 11:00 P.M,Clínica San Juan Crisostomo,Endocrinología
+Dr. Jerónimo Venegas,7:00 A.M a 12:00 P.M,Clínica Camino Real,Geriatría
+Dr. Joshua Villegas,12:01 P.M a 5:00 P.M,Clínica Camino Real,Geriatría
+Dra. Amelia Sepúlveda,5:01 P.M a 11:00 P.M,Clínica Camino Real,Geriatría
+Dra. Mía Aranda,7:00 A.M a 12:00 P.M,Oftalmólogos Contreras C.Scrl,Medicina General
+Dr. Juan David Rendón,12:01 P.M a 5:00 P.M,Oftalmólogos Contreras C.Scrl,Medicina General
+Dr. Montserrat Martínez,5:01 P.M a 11:00 P.M,Oftalmólogos Contreras C.Scrl,Medicina General
+Dr. Martina Carrera,7:00 A.M a 12:00 P.M,TG Laser Oftálmica SA,Medicina General
+Dra. Vicente Orozco,12:01 P.M a 5:00 P.M,TG Laser Oftálmica SA,Medicina General
+Dr. Ximena Cervántez,5:01 P.M a 11:00 P.M,TG Laser Oftálmica SA,Medicina General
+Dra. Samuel Toro,7:00 A.M a 12:00 P.M,Clínica Especializada San Carlos,Cardiología
+Dr. Gabriel Bravo,12:01 P.M a 5:00 P.M,Clínica Especializada San Carlos,Cardiología
+Dr. Horacio Villegas,5:01 P.M a 11:00 P.M,Clínica Especializada San Carlos,Cardiología
+Dr. Valeria Valverde,7:00 A.M a 12:00 P.M,Clínica Internacional - Sede Lima,Endocrinología
+Dr. Sophie Ramírez,12:01 P.M a 5:00 P.M,Clínica Internacional - Sede Lima,Endocrinología
+Dr. Ana Valentín,5:01 P.M a 11:00 P.M,Clínica Internacional - Sede Lima,Endocrinología
+Dra. Elías Galindo,7:00 A.M a 12:00 P.M,Oprece,Cardiología
+Dr. Ana Benavídez,12:01 P.M a 5:00 P.M,Oprece,Cardiología
+Dra. Maite Carrion,5:01 P.M a 11:00 P.M,Oprece,Cardiología
+Dr. Christopher Hernández,7:00 A.M a 12:00 P.M,Clínica Daniel Alcides Carrión,Endocrinología
+Dr. Luna Ornelas,12:01 P.M a 5:00 P.M,Clínica Daniel Alcides Carrión,Endocrinología
+Dr. Samuel Vélez,5:01 P.M a 11:00 P.M,Clínica Daniel Alcides Carrión,Endocrinología
+Dr. Julieta Carrillo,7:00 A.M a 12:00 P.M,Clínica Solidaria Santa Anita,Cardiología
+Dr. Luana Vásquez,12:01 P.M a 5:00 P.M,Clínica Solidaria Santa Anita,Cardiología
+Dr. Salomé Méndez,5:01 P.M a 11:00 P.M,Clínica Solidaria Santa Anita,Cardiología
+Dr. Miranda Atencio,7:00 A.M a 12:00 P.M,Clínica Renacer,Neumología
+Dra. Ornela Vanegas,12:01 P.M a 5:00 P.M,Clínica Renacer,Neumología
+Dr. Horacio Muñoz,5:01 P.M a 11:00 P.M,Clínica Renacer,Neumología
+Dra. Julieta Candelaria,7:00 A.M a 12:00 P.M,Clínica Monterrico,Neumología
+Dr. Paulina Tamayo,12:01 P.M a 5:00 P.M,Clínica Monterrico,Neumología
+Dra. María Paula Alba,5:01 P.M a 11:00 P.M,Clínica Monterrico,Neumología
+Dr. Josefina Rodrígez,7:00 A.M a 12:00 P.M,Clínica Auna Guardia Civil,Cardiología
+Dra. Ricardo Salinas,12:01 P.M a 5:00 P.M,Clínica Auna Guardia Civil,Cardiología
+Dr. María Fernanda Palomino,5:01 P.M a 11:00 P.M,Clínica Auna Guardia Civil,Cardiología
+Dr. Isidora Ruiz,7:00 A.M a 12:00 P.M,Clínica Cedrón,Endocrinología
+Dr. Luana Velasco,12:01 P.M a 5:00 P.M,Clínica Cedrón,Endocrinología
+Dr. Montserrat Martínez,5:01 P.M a 11:00 P.M,Clínica Cedrón,Endocrinología
+Dra. Martina Carrera,7:00 A.M a 12:00 P.M,Clínica Porvenir,Neumología
+Dr. Vicente Orozco,12:01 P.M a 5:00 P.M,Clínica Porvenir,Neumología
+Dr. Ximena Cervántez,5:01 P.M a 11:00 P.M,Clínica Porvenir,Neumología
+Dr. Samuel Toro,7:00 A.M a 12:00 P.M,Clínica Santa Isabel,Medicina General
+Dr. Gabriel Bravo,12:01 P.M a 5:00 P.M,Clínica Santa Isabel,Medicina General
+Dr. Horacio Villegas,5:01 P.M a 11:00 P.M,Clínica Santa Isabel,Medicina General
+Dr. Valeria Valverde,7:00 A.M a 12:00 P.M,Oftalmosalud,Neumología
+Dra. Sophie Ramírez,12:01 P.M a 5:00 P.M,Oftalmosalud,Neumología
+Dra. Ana Valentín,5:01 P.M a 11:00 P.M,Oftalmosalud,Neumología
+Dr. Elías Galindo,7:00 A.M a 12:00 P.M,Obra de San Camilo,Medicina General
+Dr. Ana Benavídez,12:01 P.M a 5:00 P.M,Obra de San Camilo,Medicina General
+Dra. Maite Carrion,5:01 P.M a 11:00 P.M,Obra de San Camilo,Medicina General
+Dr. Christopher Hernández,7:00 A.M a 12:00 P.M,Clínica Médica Cayetano Heredia,Geriatría
+Dr. Luna Ornelas,12:01 P.M a 5:00 P.M,Clínica Médica Cayetano Heredia,Geriatría
+Dra. Samuel Vélez,5:01 P.M a 11:00 P.M,Clínica Médica Cayetano Heredia,Geriatría
+Dra. Julieta Carrillo,7:00 A.M a 12:00 P.M,Clínica Oncosalud,Medicina General
+Dr. Luana Vásquez,12:01 P.M a 5:00 P.M,Clínica Oncosalud,Medicina General
+Dra. Salomé Méndez,5:01 P.M a 11:00 P.M,Clínica Oncosalud,Medicina General
+Dra. Miranda Atencio,7:00 A.M a 12:00 P.M,Clínica Arthrosalud,Neumología
+Dra. Ornela Vanegas,12:01 P.M a 5:00 P.M,Clínica Arthrosalud,Neumología
+Dr. Horacio Muñoz,5:01 P.M a 11:00 P.M,Clínica Arthrosalud,Neumología
+Dr. Julieta Candelaria,7:00 A.M a 12:00 P.M,Centro de Cirugía Estética Las Condes,Geriatría
+Dra. Paulina Tamayo,12:01 P.M a 5:00 P.M,Centro de Cirugía Estética Las Condes,Geriatría
+Dra. María Paula Alba,5:01 P.M a 11:00 P.M,Centro de Cirugía Estética Las Condes,Geriatría
+Dra. Josefina Rodrígez,7:00 A.M a 12:00 P.M,Clínica San Vicente SA,Cardiología
+Dra. Ricardo Salinas,12:01 P.M a 5:00 P.M,Clínica San Vicente SA,Cardiología
+Dr. María Fernanda Palomino,5:01 P.M a 11:00 P.M,Clínica San Vicente SA,Cardiología
+Dra. Isidora Ruiz,7:00 A.M a 12:00 P.M,Instituto del Cerebro y La Columna Vertebral,Endocrinología
+Dr. Luana Velasco,12:01 P.M a 5:00 P.M,Instituto del Cerebro y La Columna Vertebral,Endocrinología
+Dr. Montserrat Martínez,5:01 P.M a 11:00 P.M,Instituto del Cerebro y La Columna Vertebral,Endocrinología
+Dr. Martina Carrera,7:00 A.M a 12:00 P.M,Clínica Oncovida,Geriatría
+Dr. Ximena Cervántez,12:01 P.M a 5:00 P.M,Clínica Oncovida,Geriatría
+Dr. Samuel Toro,5:01 P.M a 11:00 P.M,Clínica Oncovida,Geriatría
+Dra. Gabriel Bravo,7:00 A.M a 12:00 P.M,Clínica San Clemente SAC,Medicina General
+Dra. Horacio Villegas,12:01 P.M a 5:00 P.M,Clínica San Clemente SAC,Medicina General
+Dr. Valeria Valverde,5:01 P.M a 11:00 P.M,Clínica San Clemente SAC,Medicina General
+Dr. Sophie Ramírez,7:00 A.M a 12:00 P.M,Clínica Padre Luis Tezza,Geriatría
+Dra. Ana Valentín,12:01 P.M a 5:00 P.M,Clínica Padre Luis Tezza,Geriatría
+Dr. Elías Galindo,5:01 P.M a 11:00 P.M,Clínica Padre Luis Tezza,Geriatría
+Dr. Ana Benavídez,7:00 A.M a 12:00 P.M,Clínica San Pedro,Neumología
+Dra. Maite Carrion,12:01 P.M a 5:00 P.M,Clínica San Pedro,Neumología
+Dr. Christopher Hernández,5:01 P.M a 11:00 P.M,Clínica San Pedro,Neumología
+Dr. Luna Ornelas,7:00 A.M a 12:00 P.M,Clínica Divino Niño Jesús,Cardiología
+Dra. Samuel Vélez,12:01 P.M a 5:00 P.M,Clínica Divino Niño Jesús,Cardiología
+Dr. Julieta Carrillo,5:01 P.M a 11:00 P.M,Clínica Divino Niño Jesús,Cardiología
+Dr. Luana Vásquez,7:00 A.M a 12:00 P.M,Clínica Internacional,Medicina General
+Dr. Salomé Méndez,12:01 P.M a 5:00 P.M,Clínica Internacional,Medicina General
+Dr. Miranda Atencio,5:01 P.M a 11:00 P.M,Clínica Internacional,Medicina General
+Dr. Ornela Vanegas,7:00 A.M a 12:00 P.M,Confía Instituto Oftalmológico,Geriatría
+Dr. Horacio Muñoz,12:01 P.M a 5:00 P.M,Confía Instituto Oftalmológico,Geriatría
+Dr. Julieta Candelaria,5:01 P.M a 11:00 P.M,Confía Instituto Oftalmológico,Geriatría
+Dra. Paulina Tamayo,7:00 A.M a 12:00 P.M,Clínica San Miguel Arcángel SAC,Geriatría
+Dra. María Paula Alba,12:01 P.M a 5:00 P.M,Clínica San Miguel Arcángel SAC,Geriatría
+Dr. Josefina Rodrígez,5:01 P.M a 11:00 P.M,Clínica San Miguel Arcángel SAC,Geriatría
+Dr. Ricardo Salinas,7:00 A.M a 12:00 P.M,Clínica CESMYN,Neumología
+Dr. María Fernanda Palomino,12:01 P.M a 5:00 P.M,Clínica CESMYN,Neumología
+Dr. Isidora Ruiz,5:01 P.M a 11:00 P.M,Clínica CESMYN,Neumología
+Dra. Luana Velasco,7:00 A.M a 12:00 P.M,Clínica Sanens,Neumología
+Dr. Montserrat Martínez,12:01 P.M a 5:00 P.M,Clínica Sanens,Neumología
+Dra. Martina Carrera,5:01 P.M a 11:00 P.M,Clínica Sanens,Neumología
+Dr. Vicente Orozco,7:00 A.M a 12:00 P.M,Clínica Repromedic,Geriatría
+Dr. Ximena Cervántez,12:01 P.M a 5:00 P.M,Clínica Repromedic,Geriatría
+Dr. Samuel Toro,5:01 P.M a 11:00 P.M,Clínica Repromedic,Geriatría
+Dr. Gabriel Bravo,7:00 A.M a 12:00 P.M,Clínica del Norte,Medicina General
+Dr. Horacio Villegas,12:01 P.M a 5:00 P.M,Clínica del Norte,Medicina General
+Dra. Valeria Valverde,5:01 P.M a 11:00 P.M,Clínica del Norte,Medicina General
+Dr. Sophie Ramírez,7:00 A.M a 12:00 P.M,Clínica Instituto Oncologico Peruano,Cardiología
+Dr. Ana Valentín,12:01 P.M a 5:00 P.M,Clínica Instituto Oncologico Peruano,Cardiología
+Dr. Ornela Vanegas,5:01 P.M a 11:00 P.M,Clínica Instituto Oncologico Peruano,Cardiología
+Dr. Horacio Muñoz,7:00 A.M a 12:00 P.M,Clínica Los Andes SAC,Endocrinología
+Dra. Julieta Candelaria,12:01 P.M a 5:00 P.M,Clínica Los Andes SAC,Endocrinología
+Dra. Paulina Tamayo,5:01 P.M a 11:00 P.M,Clínica Los Andes SAC,Endocrinología
+Dr. María Paula Alba,7:00 A.M a 12:00 P.M,Clínica San Felipe - Sede La Molina,Medicina General
+Dra. Josefina Rodrígez,12:01 P.M a 5:00 P.M,Clínica San Felipe - Sede La Molina,Medicina General
+Dra. Ricardo Salinas,5:01 P.M a 11:00 P.M,Clínica San Felipe - Sede La Molina,Medicina General
+Dra. María Fernanda Palomino,7:00 A.M a 12:00 P.M,Clínica Dr. Poemape - Clinipoemape,Medicina General
+Dra. Isidora Ruiz,12:01 P.M a 5:00 P.M,Clínica Dr. Poemape - Clinipoemape,Medicina General
+Dra. Luana Velasco,5:01 P.M a 11:00 P.M,Clínica Dr. Poemape - Clinipoemape,Medicina General
+Dr. Manuela González,7:00 A.M a 12:00 P.M,Clínica Aviva Sede Los Olivos,Geriatría
+Dra.Horacio Aguilar,12:01 P.M a 5:00 P.M,Clínica Aviva Sede Los Olivos,Geriatría
+Dra. Lucía Soto,5:01 P.M a 11:00 P.M,Clínica Aviva Sede Los Olivos,Geriatría
+Dra. Regina Gracia,7:00 A.M a 12:00 P.M,Hogar Clínica Monte Sinai,Geriatría
+Dr. Carla Nieto,12:01 P.M a 5:00 P.M,Hogar Clínica Monte Sinai,Geriatría
+Dr. Alejandra Serrano,5:01 P.M a 11:00 P.M,Hogar Clínica Monte Sinai,Geriatría
+Dra. Ricardo Bravo,7:00 A.M a 12:00 P.M,Clínica Parroquial San Francisco de Asís,Medicina General
+Dra. Juliana Gutierrez,12:01 P.M a 5:00 P.M,Clínica Parroquial San Francisco de Asís,Medicina General
+Dr. Salomé Molina,5:01 P.M a 11:00 P.M,Clínica Parroquial San Francisco de Asís,Medicina General
+Dra. María Camila Henríquez,7:00 A.M a 12:00 P.M,Clínica Campos EIRL.,Medicina General
+Dra. Ornela Caballero,12:01 P.M a 5:00 P.M,Clínica Campos EIRL.,Medicina General
+Dr. Laura Medina,5:01 P.M a 11:00 P.M,Clínica Campos EIRL.,Medicina General
+Dr. Vicente Lopez,7:00 A.M a 12:00 P.M,Guillermo Kaelin de La Fuente,Medicina General
+Dr. Regina Montero,12:01 P.M a 5:00 P.M,Guillermo Kaelin de La Fuente,Medicina General
+Dra. Samuel Jaramillo,5:01 P.M a 11:00 P.M,Guillermo Kaelin de La Fuente,Medicina General
+Dr. Gabriel Vargas,7:00 A.M a 12:00 P.M,Clínica Limatambo,Medicina General
+Dr. Horacio Moreno,12:01 P.M a 5:00 P.M,Clínica Limatambo,Medicina General
+Dra. Daniela Carrasco,5:01 P.M a 11:00 P.M,Clínica Limatambo,Medicina General
+Dra. Sara Jasso,7:00 A.M a 12:00 P.M,Laser Vision Center & Asociados SAC,Medicina General
+Dra. Alexa Ramirez,12:01 P.M a 5:00 P.M,Laser Vision Center & Asociados SAC,Medicina General
+Dra. Elías Gallardo,5:01 P.M a 11:00 P.M,Laser Vision Center & Asociados SAC,Medicina General
+Dr. Sara Sofía Granado,7:00 A.M a 12:00 P.M,Clínica San Miguel SAC,Cardiología
+Dra. Juliana Parra,12:01 P.M a 5:00 P.M,Clínica San Miguel SAC,Cardiología
+Dra. Christopher Granados,5:01 P.M a 11:00 P.M,Clínica San Miguel SAC,Cardiología
+Dr. Amanda Marquez,7:00 A.M a 12:00 P.M,Clínica Real Los Laureles,Cardiología
+Dr. Samuel Ortega,12:01 P.M a 5:00 P.M,Clínica Real Los Laureles,Cardiología
+Dra. Andrea Jaramillo,5:01 P.M a 11:00 P.M,Clínica Real Los Laureles,Cardiología
+Dr. Mariangel Alonso,7:00 A.M a 12:00 P.M,Clínica San Bartolomé,Cardiología
+Dr. Ana Paula Dominguez,12:01 P.M a 5:00 P.M,Clínica San Bartolomé,Cardiología
+Dr. Ivanna Sanz,5:01 P.M a 11:00 P.M,Clínica San Bartolomé,Cardiología
+Dr. Manuela González,7:00 A.M a 12:00 P.M,Clínica San Borja Salud,Medicina General
+Dr. Horacio Aguilar,12:01 P.M a 5:00 P.M,Clínica San Borja Salud,Medicina General
+Dra. María Mercedes Cortes,5:01 P.M a 11:00 P.M,Clínica San Borja Salud,Medicina General
+Dra. Esperanza Romero,7:00 A.M a 12:00 P.M,Oftalmic Service SAC,Endocrinología
+Dra. Xavier Martin,12:01 P.M a 5:00 P.M,Oftalmic Service SAC,Endocrinología
+Dr. Esther Caballero,5:01 P.M a 11:00 P.M,Oftalmic Service SAC,Endocrinología
+Dra. Alejandro Lozano,7:00 A.M a 12:00 P.M,Clínica Servisalud,Cardiología
+Dra. David Jimenez,12:01 P.M a 5:00 P.M,Clínica Servisalud,Cardiología
+Dra. Jorge Esteban,5:01 P.M a 11:00 P.M,Clínica Servisalud,Cardiología
+Dra. Noelia Garcia,7:00 A.M a 12:00 P.M,Clínica Good Hope,Geriatría
+Dr. Verónica Pascual,12:01 P.M a 5:00 P.M,Clínica Good Hope,Geriatría
+Dr. Manuela Soto,5:01 P.M a 11:00 P.M,Clínica Good Hope,Geriatría
+Dr. Vicente Delgado,7:00 A.M a 12:00 P.M,Glaucoma Salud,Medicina General
+Dr. Cristina Cabrera,12:01 P.M a 5:00 P.M,Glaucoma Salud,Medicina General
+Dr. María Soledad Sanchez,5:01 P.M a 11:00 P.M,Glaucoma Salud,Medicina General
+Dr. Albert Molina,7:00 A.M a 12:00 P.M,Clínica San Pablo SAC,Neumología
+Dr. Emilia Velasco,12:01 P.M a 5:00 P.M,Clínica San Pablo SAC,Neumología
+Dra. Martin Caballero,5:01 P.M a 11:00 P.M,Clínica San Pablo SAC,Neumología
+Dra. María Carmen Suarez,7:00 A.M a 12:00 P.M,Clínica San Marcos,Endocrinología
+Dr. Isabel Carrasco,12:01 P.M a 5:00 P.M,Clínica San Marcos,Endocrinología
+Dr. María Soledad Herrero,5:01 P.M a 11:00 P.M,Clínica San Marcos,Endocrinología
+Dra. Alba Molina,7:00 A.M a 12:00 P.M,Clínica Cori,Geriatría
+Dr. Eva Muñoz,12:01 P.M a 5:00 P.M,Clínica Cori,Geriatría
+Dr. Juan Manuel Gallego,5:01 P.M a 11:00 P.M,Clínica Cori,Geriatría
+Dr. Amparo Fernandez,7:00 A.M a 12:00 P.M,Clínica Maison de Santé del Sur,Cardiología
+Dr. María Rosa Gil,12:01 P.M a 5:00 P.M,Clínica Maison de Santé del Sur,Cardiología
+Dra. Olga Calvo,5:01 P.M a 11:00 P.M,Clínica Maison de Santé del Sur,Cardiología
+Dr. Miriam Ramirez,7:00 A.M a 12:00 P.M,Clínica San Juan Bautista,Neumología
+Dr. Raul Fuentes,12:01 P.M a 5:00 P.M,Clínica San Juan Bautista,Neumología
+Dr. María Josefa Martinez,5:01 P.M a 11:00 P.M,Clínica San Juan Bautista,Neumología
+Dr. María Luisa Medina,7:00 A.M a 12:00 P.M,Clínica Medic Hope,Medicina General
+Dra. Manuela Soler,12:01 P.M a 5:00 P.M,Clínica Medic Hope,Medicina General
+Dra. Teresa Serratos,5:01 P.M a 11:00 P.M,Clínica Medic Hope,Medicina General
+Dra. Alberto Martínez,7:00 A.M a 12:00 P.M,Clínica Medica Primavera,Neumología
+Dr. Fernanda Rodríguez,12:01 P.M a 5:00 P.M,Clínica Medica Primavera,Neumología
+Dra. Natalia García,5:01 P.M a 11:00 P.M,Clínica Medica Primavera,Neumología
+Dra. Alexa Piña,7:00 A.M a 12:00 P.M,Clínica Maison de Santé del Este,Endocrinología
+Dr. Renata Moreno,12:01 P.M a 5:00 P.M,Clínica Maison de Santé del Este,Endocrinología
+Dr. José Rivera,5:01 P.M a 11:00 P.M,Clínica Maison de Santé del Este,Endocrinología
+Dr. María Elena Sánchez,7:00 A.M a 12:00 P.M,Clínica Corazón de Jesús,Geriatría
+Dr. Ximena Jiménez,12:01 P.M a 5:00 P.M,Clínica Corazón de Jesús,Geriatría
+Dra. Renata Estrada,5:01 P.M a 11:00 P.M,Clínica Corazón de Jesús,Geriatría
+Dra. Alicia Martínez,7:00 A.M a 12:00 P.M,Megasalud Naranjal SAC,Medicina General
+Dr. Rebeca Reyes,12:01 P.M a 5:00 P.M,Megasalud Naranjal SAC,Medicina General
+Dra. Juan Jiménez,5:01 P.M a 11:00 P.M,Megasalud Naranjal SAC,Medicina General
+Dr. Patricia Gómez,7:00 A.M a 12:00 P.M,Clínica Ziegler,Cardiología
+Dra. Pedro Martínez,12:01 P.M a 5:00 P.M,Clínica Ziegler,Cardiología
+Dr. Fernando Hernández,5:01 P.M a 11:00 P.M,Clínica Ziegler,Cardiología
+Dr. Rodrigo Cruz,7:00 A.M a 12:00 P.M,Clínica Medica Zegarra SAC,Endocrinología
+Dr. Elizabeth Garza,12:01 P.M a 5:00 P.M,Clínica Medica Zegarra SAC,Endocrinología
+Dr. Andrea Jiménez,5:01 P.M a 11:00 P.M,Clínica Medica Zegarra SAC,Endocrinología
+Dra. Renata Castro,7:00 A.M a 12:00 P.M,Clínica Pinel SRL,Endocrinología
+Dr. Alan Flores,12:01 P.M a 5:00 P.M,Clínica Pinel SRL,Endocrinología
+Dr. Alejandra Contreras,5:01 P.M a 11:00 P.M,Clínica Pinel SRL,Endocrinología
+Dra. Lorena Vargas,7:00 A.M a 12:00 P.M,Clínica La Luz SAC,Cardiología
+Dr. Alan Chávez,12:01 P.M a 5:00 P.M,Clínica La Luz SAC,Cardiología
+Dr. Samantha Martínez,5:01 P.M a 11:00 P.M,Clínica La Luz SAC,Cardiología
+Dra. Raúl Díaz,7:00 A.M a 12:00 P.M,Clínica Fleming,Cardiología
+Dra. María Guadalupe Reyes,12:01 P.M a 5:00 P.M,Clínica Fleming,Cardiología
+Dra. Verónica Estrada,5:01 P.M a 11:00 P.M,Clínica Fleming,Cardiología
+Dr. Lorena Moreno,7:00 A.M a 12:00 P.M,Clínica Santa Lucia SAC,Medicina General
+Dra. Mariana Flores,12:01 P.M a 5:00 P.M,Clínica Santa Lucia SAC,Medicina General
+Dr. Teresa Serratos,5:01 P.M a 11:00 P.M,Clínica Santa Lucia SAC,Medicina General
+Dr. Eva Muñoz,7:00 A.M a 12:00 P.M,San Martín Plástica & Estética,Geriatría
+Dr. Alma Aguilar,12:01 P.M a 5:00 P.M,San Martín Plástica & Estética,Geriatría
+Dr. Oihane García,5:01 P.M a 11:00 P.M,San Martín Plástica & Estética,Geriatría
+Dr. Presencia Narvaez,7:00 A.M a 12:00 P.M,Traumatologia y Ortopedia Aybar & As SAC,Neumología
+Dr. Casta Rendon,12:01 P.M a 5:00 P.M,Traumatologia y Ortopedia Aybar & As SAC,Neumología
+Dra. Paola Rubio,5:01 P.M a 11:00 P.M,Traumatologia y Ortopedia Aybar & As SAC,Neumología
+Dra. Tierra Alcaraz,7:00 A.M a 12:00 P.M,Clínica Santa María,Neumología
+Dra. Angelina Serrano,12:01 P.M a 5:00 P.M,Clínica Santa María,Neumología
+Dr. Marisa Ruiz,5:01 P.M a 11:00 P.M,Clínica Santa María,Neumología
+Dr. Dia Zamorano,7:00 A.M a 12:00 P.M,Clínica Continental,Medicina General
+Dra. Fides Ignacio,12:01 P.M a 5:00 P.M,Clínica Continental,Medicina General
+Dr. Annestas Losa,5:01 P.M a 11:00 P.M,Clínica Continental,Medicina General
+Dr. Jeraldo Olmeda,7:00 A.M a 12:00 P.M,Clínica Javier Prado,Neumología
+Dr. Felise Padron,12:01 P.M a 5:00 P.M,Clínica Javier Prado,Neumología
+Dra. Jacintha Machado,5:01 P.M a 11:00 P.M,Clínica Javier Prado,Neumología
+Dra. Doloris Contreras,7:00 A.M a 12:00 P.M,Clínica Zegarra,Cardiología
+Dra. Bastien Molina,12:01 P.M a 5:00 P.M,Clínica Zegarra,Cardiología
+Dra. Bienvenido De León,5:01 P.M a 11:00 P.M,Clínica Zegarra,Cardiología
+Dra. Brienda Díaz,7:00 A.M a 12:00 P.M,Clínica Limatambo,Endocrinología
+Dra. Risa Hernández,12:01 P.M a 5:00 P.M,Clínica Limatambo,Endocrinología
+Dr. Jakinda Gil,5:01 P.M a 11:00 P.M,Clínica Limatambo,Endocrinología
+Dr. Peni Salinas,7:00 A.M a 12:00 P.M,Clínica Raimondi,Medicina General
+Dra. Nacio Domínguez,12:01 P.M a 5:00 P.M,Clínica Raimondi,Medicina General
+Dra. Felita Huerta,5:01 P.M a 11:00 P.M,Clínica Raimondi,Medicina General
+Dra. Emeraude Alonso,7:00 A.M a 12:00 P.M,Novo Q,Cardiología
+Dr. Salud Urena,12:01 P.M a 5:00 P.M,Novo Q,Cardiología
+Dr. Araseli Rojas,5:01 P.M a 11:00 P.M,Novo Q,Cardiología
+Dra. Carlyta Del Champo,7:00 A.M a 12:00 P.M,Clínica Virgen del Rosario SRL,Endocrinología
+Dr. Narcisa Castejón,12:01 P.M a 5:00 P.M,Clínica Virgen del Rosario SRL,Endocrinología
+Dr. Solenne Santana,5:01 P.M a 11:00 P.M,Clínica Virgen del Rosario SRL,Endocrinología
+Dr. Baila Elizondo,7:00 A.M a 12:00 P.M,Clínica El Golf,Cardiología
+Dra. Cierra Morales,12:01 P.M a 5:00 P.M,Clínica El Golf,Cardiología
+Dr. Blanka Gonzalez,5:01 P.M a 11:00 P.M,Clínica El Golf,Cardiología
+Dra. Mincho Juárez,7:00 A.M a 12:00 P.M,Clínica Oftalmológica Macula D&T,Neumología
+Dr. Magdalina Muñoz,12:01 P.M a 5:00 P.M,Clínica Oftalmológica Macula D&T,Neumología
+Dra. Salud De León,5:01 P.M a 11:00 P.M,Clínica Oftalmológica Macula D&T,Neumología
+Dra. Cariana Marín,7:00 A.M a 12:00 P.M,Clínica San Borja,Geriatría
+Dr. Annestas Vázquez,12:01 P.M a 5:00 P.M,Clínica San Borja,Geriatría
+Dra. Lonni Guerra,5:01 P.M a 11:00 P.M,Clínica San Borja,Geriatría
+Dr. Chrysanna Mendoza,7:00 A.M a 12:00 P.M,Clínica Montefiori,Neumología
+Dr. Maximo Guzmán,12:01 P.M a 5:00 P.M,Clínica Montefiori,Neumología
+Dra. Santidad Abarca,5:01 P.M a 11:00 P.M,Clínica Montefiori,Neumología
+Dr. Madicella Fuentes,7:00 A.M a 12:00 P.M,Liga Contra El Cáncer,Geriatría
+Dra. Alonzo Rivera,12:01 P.M a 5:00 P.M,Liga Contra El Cáncer,Geriatría
+Dr. Estela Sanchez,5:01 P.M a 11:00 P.M,Liga Contra El Cáncer,Geriatría
+Dra. Laray Narvaez,7:00 A.M a 12:00 P.M,Oftalmosalud,Neumología
+Dra. Paulita Jiménez,12:01 P.M a 5:00 P.M,Oftalmosalud,Neumología
+Dr. Fina Barbero,5:01 P.M a 11:00 P.M,Oftalmosalud,Neumología
+Dra. Felis Ruíz,7:00 A.M a 12:00 P.M,Clínica Santa Julia,Neumología
+Dr. Jerrold Santiago,12:01 P.M a 5:00 P.M,Clínica Santa Julia,Neumología
+Dra. Celestina Luna,5:01 P.M a 11:00 P.M,Clínica Santa Julia,Neumología
+Dra. Jaden Escarra,7:00 A.M a 12:00 P.M,Clínica Buenaventura,Cardiología
+Dra. Santina Paredes,12:01 P.M a 5:00 P.M,Clínica Buenaventura,Cardiología
+Dra. Dominica Molina,5:01 P.M a 11:00 P.M,Clínica Buenaventura,Cardiología
+Dra. Carmya Vicario,7:00 A.M a 12:00 P.M,Clínica Stella Maris,Cardiología
+Dr. Daleyza Cabrera,12:01 P.M a 5:00 P.M,Clínica Stella Maris,Cardiología
+Dra. Narcisa Aguilar,5:01 P.M a 11:00 P.M,Clínica Stella Maris,Cardiología
+Dra. Ana Mendoza,7:00 A.M a 12:00 P.M,Clínica Universitaria,Cardiología
+Dr. Cristiano Moreno,12:01 P.M a 5:00 P.M,Clínica Universitaria,Cardiología
+Dra. Lynde Lopez,5:01 P.M a 11:00 P.M,Clínica Universitaria,Cardiología
+Dra. Carminda Romero,7:00 A.M a 12:00 P.M,Clínica Higuereta,Medicina General
+Dr. Alphonso Martínez,12:01 P.M a 5:00 P.M,Clínica Higuereta,Medicina General
+Dr. Lolitta Valiente,5:01 P.M a 11:00 P.M,Clínica Higuereta,Medicina General
+Dra. Salvadore Lopez,7:00 A.M a 12:00 P.M,Clínica Santa Beatriz,Cardiología
+Dra. Leonides Toledano,12:01 P.M a 5:00 P.M,Clínica Santa Beatriz,Cardiología
+Dra. Mirabelle Velasco,5:01 P.M a 11:00 P.M,Clínica Santa Beatriz,Cardiología
+Dr. Luminosa Domínguez,7:00 A.M a 12:00 P.M,Oftálmica SA,Endocrinología
+Dr. Edita Navarro,12:01 P.M a 5:00 P.M,Oftálmica SA,Endocrinología
+Dra. Damita Betancourt,5:01 P.M a 11:00 P.M,Oftálmica SA,Endocrinología
+Dra. Diana Losa,7:00 A.M a 12:00 P.M,Novoclinic,Neumología
+Dra. Tulio Nunez,12:01 P.M a 5:00 P.M,Novoclinic,Neumología
+Dra. Belinda Zamorano,5:01 P.M a 11:00 P.M,Novoclinic,Neumología
+Dr. Noelia Flores,7:00 A.M a 12:00 P.M,Detecta Clínica,Cardiología
+Dra. Servando Mata,12:01 P.M a 5:00 P.M,Detecta Clínica,Cardiología
+Dra. Jesenia Moreno,5:01 P.M a 11:00 P.M,Detecta Clínica,Cardiología
+Dr. Fonda Estrada,7:00 A.M a 12:00 P.M,Clínica San Andrés,Medicina General
+Dr. Aristides Colón,12:01 P.M a 5:00 P.M,Clínica San Andrés,Medicina General
+Dr. Gitana Contreras,5:01 P.M a 11:00 P.M,Clínica San Andrés,Medicina General
+Dr. Ilsa Losa,7:00 A.M a 12:00 P.M,Servicios de Salud Guadalupe SAC,Cardiología
+Dr. Salud Machado,12:01 P.M a 5:00 P.M,Servicios de Salud Guadalupe SAC,Cardiología
+Dra. Pedro Maldonado,5:01 P.M a 11:00 P.M,Servicios de Salud Guadalupe SAC,Cardiología
+Dr. Noa Velásquez,7:00 A.M a 12:00 P.M,Clínica San Felipe SA,Endocrinología
+Dra. Nieves Vicario,12:01 P.M a 5:00 P.M,Clínica San Felipe SA,Endocrinología
+Dra. Enrique Marroquín,5:01 P.M a 11:00 P.M,Clínica San Felipe SA,Endocrinología
+Dr. Carolinda Cortez,7:00 A.M a 12:00 P.M,Clínica Oftalmo Vissum,Endocrinología
+Dr. Tome Colón,12:01 P.M a 5:00 P.M,Clínica Oftalmo Vissum,Endocrinología
+Dra. Florita Suárez,5:01 P.M a 11:00 P.M,Clínica Oftalmo Vissum,Endocrinología
+Dr. Amiyah Alonso,7:00 A.M a 12:00 P.M,Hospital Megasalud Universal,Geriatría
+Dra. Atalaya Velasco,12:01 P.M a 5:00 P.M,Hospital Megasalud Universal,Geriatría
+Dra. Zoe Rivera,5:01 P.M a 11:00 P.M,Hospital Megasalud Universal,Geriatría
+Dra. Rio Ramírez,7:00 A.M a 12:00 P.M,Clínica Chorrillos,Neumología
+Dra. Peta Iglesias,12:01 P.M a 5:00 P.M,Clínica Chorrillos,Neumología
+Dr. Sergio Fernández,5:01 P.M a 11:00 P.M,Clínica Chorrillos,Neumología
+Dra. Candess Mendoza,7:00 A.M a 12:00 P.M,Clínica Miraflores SAC,Neumología
+Dr. Levina Santiago,12:01 P.M a 5:00 P.M,Clínica Miraflores SAC,Neumología
+Dr. Salvina Velasco,5:01 P.M a 11:00 P.M,Clínica Miraflores SAC,Neumología
+Dra. Sabana Ramos,7:00 A.M a 12:00 P.M,Oftalmosalud,Endocrinología
+Dr. Stellita Juárez,12:01 P.M a 5:00 P.M,Oftalmosalud,Endocrinología
+Dra. Lucio Bolivar,5:01 P.M a 11:00 P.M,Oftalmosalud,Endocrinología
+Dr. Nelia Nunez,7:00 A.M a 12:00 P.M,Clínica Binomium,Cardiología
+Dr. Eoduin Maldonado,12:01 P.M a 5:00 P.M,Clínica Binomium,Cardiología
+Dr. Cambri Castejón,5:01 P.M a 11:00 P.M,Clínica Binomium,Cardiología
+Dr. Turi Estrada,7:00 A.M a 12:00 P.M,Visana Clínica Especializada Oftalmológica,Medicina General
+Dr. Frisco Vázquez,12:01 P.M a 5:00 P.M,Visana Clínica Especializada Oftalmológica,Medicina General
+Dr. Adriana Moreno,5:01 P.M a 11:00 P.M,Visana Clínica Especializada Oftalmológica,Medicina General
+Dr. Brigida Talamantes,7:00 A.M a 12:00 P.M,Clínica Monteluz,Endocrinología
+Dra. Oihane Salinas,12:01 P.M a 5:00 P.M,Clínica Monteluz,Endocrinología
+Dr. Zerlinda Rubio,5:01 P.M a 11:00 P.M,Clínica Monteluz,Endocrinología
+Dra. Luz Guzmán,7:00 A.M a 12:00 P.M,Medavan,Cardiología
+Dra. Pamelia Guerra,12:01 P.M a 5:00 P.M,Medavan,Cardiología
+Dra. Corazon De La Cruz,5:01 P.M a 11:00 P.M,Medavan,Cardiología
+Dr. Silvia Ramírez,7:00 A.M a 12:00 P.M,Clínica San Juan de Dios,Endocrinología
+Dr. Morissa Marín,12:01 P.M a 5:00 P.M,Clínica San Juan de Dios,Endocrinología
+Dr. Santi Villalobos,5:01 P.M a 11:00 P.M,Clínica San Juan de Dios,Endocrinología
+Dra. Guaidnerth Obrador,7:00 A.M a 12:00 P.M,Clínica San Judas Tadeo,Neumología
+Dr. Melia Cruz,12:01 P.M a 5:00 P.M,Clínica San Judas Tadeo,Neumología
+Dr. Marianela Soto,5:01 P.M a 11:00 P.M,Clínica San Judas Tadeo,Neumología
+Dr. Laurentia Garza,7:00 A.M a 12:00 P.M,Clínica de La Familia,Cardiología
+Dr. Cumma Rodríguez,12:01 P.M a 5:00 P.M,Clínica de La Familia,Cardiología
+Dr. Jabier Reyes,5:01 P.M a 11:00 P.M,Clínica de La Familia,Cardiología
+Dra. Karyme Betancourt,7:00 A.M a 12:00 P.M,Clínica Montesur,Neumología
+Dra. Latoya De La Cruz,12:01 P.M a 5:00 P.M,Clínica Montesur,Neumología
+Dr. Rozalinde Santiago,5:01 P.M a 11:00 P.M,Clínica Montesur,Neumología
+Dra. Godofredo Perez,7:00 A.M a 12:00 P.M,Clínica Mundo Salud SAC,Geriatría
+Dr. Abigeal Zamorano,12:01 P.M a 5:00 P.M,Clínica Mundo Salud SAC,Geriatría
+Dra. Armindo Huerta,5:01 P.M a 11:00 P.M,Clínica Mundo Salud SAC,Geriatría
+Dr. Alva Domínguez,7:00 A.M a 12:00 P.M,Medicentro San Marcos,Endocrinología
+Dr. Tia Muñoz,12:01 P.M a 5:00 P.M,Medicentro San Marcos,Endocrinología
+Dr. Dabora Suárez,5:01 P.M a 11:00 P.M,Medicentro San Marcos,Endocrinología
+Dr. Mario De La Vega,7:00 A.M a 12:00 P.M,Clínica González SA,Neumología
+Dra. Estera Nunez,12:01 P.M a 5:00 P.M,Clínica González SA,Neumología
+Dr. Catalyn De La Vega,5:01 P.M a 11:00 P.M,Clínica González SA,Neumología
+Dr. Morissa Sanchez,7:00 A.M a 12:00 P.M,Clínica Oftalmológica Ñahui Salud,Neumología
+Dr. Martta Sanz,12:01 P.M a 5:00 P.M,Clínica Oftalmológica Ñahui Salud,Neumología
+Dr. Justo González,5:01 P.M a 11:00 P.M,Clínica Oftalmológica Ñahui Salud,Neumología
+Dr. Manuel Cabrera,7:00 A.M a 12:00 P.M,Clínica Integra Quirúrgica,Medicina General
+Dra. Peta López,12:01 P.M a 5:00 P.M,Clínica Integra Quirúrgica,Medicina General
+Dr. Julia Ruiz,5:01 P.M a 11:00 P.M,Clínica Integra Quirúrgica,Medicina General
+Dr. An Romero,7:00 A.M a 12:00 P.M,Clinic Novasalud,Endocrinología
+Dra. Emilio Cabello,12:01 P.M a 5:00 P.M,Clinic Novasalud,Endocrinología
+Dr. Alatea Suárez,5:01 P.M a 11:00 P.M,Clinic Novasalud,Endocrinología
+Dr. Claudina Vásquez,7:00 A.M a 12:00 P.M,Clínica Marbella,Neumología
+Dra. Ermenilda García,12:01 P.M a 5:00 P.M,Clínica Marbella,Neumología
+Dra. Catalena Sanz,5:01 P.M a 11:00 P.M,Clínica Marbella,Neumología
+Dra. Arcelia Guerrero,7:00 A.M a 12:00 P.M,Clínica Campbell,Endocrinología
+Dra. Caridad Molina,12:01 P.M a 5:00 P.M,Clínica Campbell,Endocrinología
+Dr. Mora Peña,5:01 P.M a 11:00 P.M,Clínica Campbell,Endocrinología
+Dr. Dionicio Colón,7:00 A.M a 12:00 P.M,Clin.Oft.Cauti Bo?A Oftalmolog,Medicina General
+Dr. Rosalio Flores,12:01 P.M a 5:00 P.M,Clin.Oft.Cauti Bo?A Oftalmolog,Medicina General
+Dr. Alejo Castro,5:01 P.M a 11:00 P.M,Clin.Oft.Cauti Bo?A Oftalmolog,Medicina General
+Dra. Carrissa De León,7:00 A.M a 12:00 P.M,Clínica Madre Zoraida,Medicina General
+Dr. Malisa Abarca,12:01 P.M a 5:00 P.M,Clínica Madre Zoraida,Medicina General
+Dra. Godofredo Navarro,5:01 P.M a 11:00 P.M,Clínica Madre Zoraida,Medicina General
+Dr. Blanca Mata,7:00 A.M a 12:00 P.M,Clínica Petras,Medicina General
+Dr. Jakinda Nunez,12:01 P.M a 5:00 P.M,Clínica Petras,Medicina General
+Dr. Olva Hernández,5:01 P.M a 11:00 P.M,Clínica Petras,Medicina General
+Dra. Octavio Luna,7:00 A.M a 12:00 P.M,Futuro Vision,Neumología
+Dra. Jacynth Losa,12:01 P.M a 5:00 P.M,Futuro Vision,Neumología
+Dr. Kiki Domínguez,5:01 P.M a 11:00 P.M,Futuro Vision,Neumología
+Dra. Fermina Soto,7:00 A.M a 12:00 P.M,Clínica Santa Martha del Sur,Endocrinología
+Dr. Sabelia Cabrera,12:01 P.M a 5:00 P.M,Clínica Santa Martha del Sur,Endocrinología
+Dra. Edgyth Molina,5:01 P.M a 11:00 P.M,Clínica Santa Martha del Sur,Endocrinología
+Dr. Aquilino Contreras,7:00 A.M a 12:00 P.M,Auna Clínica Delgado,Medicina General
+Dr. Amparo Vásquez,12:01 P.M a 5:00 P.M,Auna Clínica Delgado,Medicina General
+Dra. Marifel Vicario,5:01 P.M a 11:00 P.M,Auna Clínica Delgado,Medicina General
+Dr. Agueda Burgos,7:00 A.M a 12:00 P.M,Clínica Santa Leonor,Neumología
+Dr. Fabiana Castejón,12:01 P.M a 5:00 P.M,Clínica Santa Leonor,Neumología
+Dr. Roce Colón,5:01 P.M a 11:00 P.M,Clínica Santa Leonor,Neumología
+Dra. Lia Narvaez,7:00 A.M a 12:00 P.M,Francisco Astocondor Salazar,Medicina General
+Dr. Lumina González,12:01 P.M a 5:00 P.M,Francisco Astocondor Salazar,Medicina General
+Dr. Sanjuana Obrador,5:01 P.M a 11:00 P.M,Francisco Astocondor Salazar,Medicina General
+Dra. Molina Vázquez,7:00 A.M a 12:00 P.M,Clínica Maison de Santé de Lima,Cardiología
+Dra. Arlet Paredes,12:01 P.M a 5:00 P.M,Clínica Maison de Santé de Lima,Cardiología
+Dr. Cesar Diaz,5:01 P.M a 11:00 P.M,Clínica Maison de Santé de Lima,Cardiología
+Dra. Santi Colón,7:00 A.M a 12:00 P.M,Clínica Ricardo Palma,Neumología
+Dra. Amora Vásquez,12:01 P.M a 5:00 P.M,Clínica Ricardo Palma,Neumología
+Dra. Aya Fonseca,5:01 P.M a 11:00 P.M,Clínica Ricardo Palma,Neumología
+Dra. Liliana Castillo,7:00 A.M a 12:00 P.M,Instituto de Glaucoma y Catarata,Endocrinología
+Dr. Ciara Díaz,12:01 P.M a 5:00 P.M,Instituto de Glaucoma y Catarata,Endocrinología
+Dra. Emelda Soto,5:01 P.M a 11:00 P.M,Instituto de Glaucoma y Catarata,Endocrinología
+Dra. Alejo Echeverria,7:00 A.M a 12:00 P.M,Visual Center Clínica de Ojos,Medicina General
+Dr. Pazel Rendon,12:01 P.M a 5:00 P.M,Visual Center Clínica de Ojos,Medicina General
+Dr. Natalio Cano,5:01 P.M a 11:00 P.M,Visual Center Clínica de Ojos,Medicina General
+Dr. Paula Pérez,7:00 A.M a 12:00 P.M,Futuro Visión,Neumología
+Dr. Madrid Ortiz,12:01 P.M a 5:00 P.M,Futuro Visión,Neumología
+Dra. Pazel Rendon,5:01 P.M a 11:00 P.M,Futuro Visión,Neumología
+Dra. Natalio Cano,7:00 A.M a 12:00 P.M,Centro Médico Materno Infantil Santa Elizabeth,Cardiología
+Dra. Paula Pérez,12:01 P.M a 5:00 P.M,Centro Médico Materno Infantil Santa Elizabeth,Cardiología
+Dr. Madrid Ortiz,5:01 P.M a 11:00 P.M,Centro Médico Materno Infantil Santa Elizabeth,Cardiología
+Dr. Dali Ortíz,7:00 A.M a 12:00 P.M,Clínica Astocondor,Cardiología
+Dra. Alba Burgos,12:01 P.M a 5:00 P.M,Clínica Astocondor,Cardiología
+Dr. Everd Losa,5:01 P.M a 11:00 P.M,Clínica Astocondor,Cardiología
+Dr. Elvera Guadarrama,7:00 A.M a 12:00 P.M,Clínica Álvarez,Neumología
+Dr. Isabella Rojas,12:01 P.M a 5:00 P.M,Clínica Álvarez,Neumología
+Dr. Adoncia Candella,5:01 P.M a 11:00 P.M,Clínica Álvarez,Neumología
+Dr. Quito Cabrera,7:00 A.M a 12:00 P.M,Clínica María del Socorro,Cardiología
+Dra. Ramonda Castejón,12:01 P.M a 5:00 P.M,Clínica María del Socorro,Cardiología
+Dr. Rosalind Marroquín,5:01 P.M a 11:00 P.M,Clínica María del Socorro,Cardiología
+Dra. Sanchez Nunez,7:00 A.M a 12:00 P.M,Centro Médico Avendaño SAC,Medicina General
+Dr. Elian Fuentes,12:01 P.M a 5:00 P.M,Centro Médico Avendaño SAC,Medicina General
+Dra. Rosalinda Vargas,5:01 P.M a 11:00 P.M,Centro Médico Avendaño SAC,Medicina General
+Dr. Ermenhilda Asturias,7:00 A.M a 12:00 P.M,Clínica Jesús del Norte,Geriatría
+Dr. Maximiliano Luna,12:01 P.M a 5:00 P.M,Clínica Jesús del Norte,Geriatría
+Dr. Amora Abarca,5:01 P.M a 11:00 P.M,Clínica Jesús del Norte,Geriatría
+Dr. Chana Salinas,7:00 A.M a 12:00 P.M,Clínica Arroyo,Geriatría
+Dra. Maceo Asturias,12:01 P.M a 5:00 P.M,Clínica Arroyo,Geriatría
+Dr. Rey Villalobos,5:01 P.M a 11:00 P.M,Clínica Arroyo,Geriatría
+Dr. Manuella Navarro,7:00 A.M a 12:00 P.M,Clínica Sanicen,Geriatría
+Dr. Silvia Flores,12:01 P.M a 5:00 P.M,Clínica Sanicen,Geriatría
+Dr. Margeria Martinez,5:01 P.M a 11:00 P.M,Clínica Sanicen,Geriatría
+Dra. Leocadia Toledano,7:00 A.M a 12:00 P.M,Clínica San Gabriel SAC,Geriatría
+Dra. Evangalista Serrano,12:01 P.M a 5:00 P.M,Clínica San Gabriel SAC,Geriatría
+Dr. Emmanuela Iglesias,5:01 P.M a 11:00 P.M,Clínica San Gabriel SAC,Geriatría
+Dra. Santidad Núñez,7:00 A.M a 12:00 P.M,Clínica de Ojos Visual Ophthalmics,Geriatría
+Dra. Jade Chávez,12:01 P.M a 5:00 P.M,Clínica de Ojos Visual Ophthalmics,Geriatría
+Dr. Maisa Martinez,5:01 P.M a 11:00 P.M,Clínica de Ojos Visual Ophthalmics,Geriatría
+Dr. Felise Zamorano,7:00 A.M a 12:00 P.M,Clínica María Huarhua EIRL,Endocrinología
+Dr. Teo Elizondo,12:01 P.M a 5:00 P.M,Clínica María Huarhua EIRL,Endocrinología
+Dra. Mirasol Valiente,5:01 P.M a 11:00 P.M,Clínica María Huarhua EIRL,Endocrinología
+Dr. Che Fonseca,7:00 A.M a 12:00 P.M,Hospital Militar Geriátrico,Geriatría
+Dr. Patricio Betancourt,12:01 P.M a 5:00 P.M,Hospital Militar Geriátrico,Geriatría
+Dr. Grecil Álvarez,5:01 P.M a 11:00 P.M,Hospital Militar Geriátrico,Geriatría
+Dr. Noa Cano,7:00 A.M a 12:00 P.M,Hospital Militar Luis Arias Schereiber,Medicina General
+Dra. Mincho Guadarrama,12:01 P.M a 5:00 P.M,Hospital Militar Luis Arias Schereiber,Medicina General
+Dra. Ciera Martínez,5:01 P.M a 11:00 P.M,Hospital Militar Luis Arias Schereiber,Medicina General
+Dr. Adrian Narvaez,7:00 A.M a 12:00 P.M,Hospital Central de La Fuerza Aérea del Perú,Neumología
+Dra. Blanka Pérez,12:01 P.M a 5:00 P.M,Hospital Central de La Fuerza Aérea del Perú,Neumología
+Dr.Cheche Domínguez,5:01 P.M a 11:00 P.M,Hospital Central de La Fuerza Aérea del Perú,Neumología
+Dr. Faustino Oleastro,7:00 A.M a 12:00 P.M,Hospital Geriátrico PNP San José,Endocrinología
+Dra. Osana Rendon,12:01 P.M a 5:00 P.M,Hospital Geriátrico PNP San José,Endocrinología
+Dra. Consuelo Villalobos,5:01 P.M a 11:00 P.M,Hospital Geriátrico PNP San José,Endocrinología
+Dra. Nicabar Peña,7:00 A.M a 12:00 P.M,Hospital Nacional Policia Nacional del Perú Gral PNP Luis N. Saenz.,Cardiología
+Dr. Alejandro Estrada,12:01 P.M a 5:00 P.M,Hospital Nacional Policia Nacional del Perú Gral PNP Luis N. Saenz.,Cardiología
+Dr. Gui Contreras,5:01 P.M a 11:00 P.M,Hospital Nacional Policia Nacional del Perú Gral PNP Luis N. Saenz.,Cardiología
+Dr. Labonita Ignacio,7:00 A.M a 12:00 P.M,Hospital PNP Augusto B. Leguía,Neumología
+Dra. Efrain Salazar,12:01 P.M a 5:00 P.M,Hospital PNP Augusto B. Leguía,Neumología
+Dra. Cruzita Guzmán,5:01 P.M a 11:00 P.M,Hospital PNP Augusto B. Leguía,Neumología
